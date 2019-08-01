@@ -256,9 +256,6 @@ main {
   margin: 2em 0 3em 0;
 }
 
-.main-container .btn {
-}
-
 .icon-container img {
   height: 50%;
   width: auto;
@@ -343,6 +340,7 @@ footer ul li:nth-of-type(1) {
   .nav-btn-right {
     display: none;
   }
+
   .hamburger-menu {
     margin-left: auto;
     display: block;
